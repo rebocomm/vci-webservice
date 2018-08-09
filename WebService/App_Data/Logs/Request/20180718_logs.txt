@@ -1,0 +1,23 @@
+---------------------------------------
+2018-07-18 12:27:10
+{"InternalT":[],"TransferList":[]}
+---------------------------------------
+---------------------------------------
+2018-07-18 12:27:36
+{"InternalT":[],"TransferList":[]}
+---------------------------------------
+---------------------------------------
+2018-07-18 12:29:03
+{"InternalT":[{"MTF":"NH02","ItemCode":"TBVS181696","Quantity":14,"TransferType":"0","OriginalDoc":"GH07180001","fromBin":"AO","toBin":"TAM","Status":8,"EPCQuantity":2,"UOM":"THUNG","BatchNo":"LO18000360","ConfirmTime":null,"CreatedTime":"2018-07-18T11:20:52.837","CreatedBy":"BFO","ConfirmedBy":"","Priority":10}],"TransferList":[{"MTF":"NH02","lastTime":"2018-07-18T11:23:43.947","fromBin":"AO","toBin":"TAM","EPC":"B0000002","UOM":"THUNG","BatchNo":"LO18000360"},{"MTF":"NH02","lastTime":"2018-07-18T11:23:43.947","fromBin":"AO","toBin":"TAM","EPC":"B0000003","UOM":"THUNG","BatchNo":"LO18000360"}]}
+---------------------------------------
+---------------------------------------
+2018-07-18 12:35:57
+Response[false]
+{"InternalT":[{"MTF":"NH02","ItemCode":"TBVS181696","Quantity":14,"TransferType":"0","OriginalDoc":"GH07180001","fromBin":"AO","toBin":"TAM","Status":8,"EPCQuantity":2,"UOM":"THUNG","BatchNo":"LO18000360","ConfirmTime":null,"CreatedTime":"2018-07-18T11:20:52.837","CreatedBy":"BFO","ConfirmedBy":"","Priority":10}],"TransferList":[{"MTF":"NH02","lastTime":"2018-07-18T11:23:43.947","fromBin":"AO","toBin":"TAM","EPC":"B0000002","UOM":"THUNG","BatchNo":"LO18000360"},{"MTF":"NH02","lastTime":"2018-07-18T11:23:43.947","fromBin":"AO","toBin":"TAM","EPC":"B0000003","UOM":"THUNG","BatchNo":"LO18000360"}]}
+---------------------------------------
+---------------------------------------
+2018-07-18 12:37:07
+Response[false]
+ 
+{"InternalT":[{"MTF":"NH02","ItemCode":"TBVS181696","Quantity":14,"TransferType":"0","OriginalDoc":"GH07180001","fromBin":"AO","toBin":"TAM","Status":8,"EPCQuantity":2,"UOM":"THUNG","BatchNo":"LO18000360","ConfirmTime":null,"CreatedTime":"2018-07-18T11:20:52.837","CreatedBy":"BFO","ConfirmedBy":"","Priority":10}],"TransferList":[{"MTF":"NH02","lastTime":"2018-07-18T11:23:43.947","fromBin":"AO","toBin":"TAM","EPC":"B0000002","UOM":"THUNG","BatchNo":"LO18000360"},{"MTF":"NH02","lastTime":"2018-07-18T11:23:43.947","fromBin":"AO","toBin":"TAM","EPC":"B0000003","UOM":"THUNG","BatchNo":"LO18000360"}]}
+---------------------------------------
